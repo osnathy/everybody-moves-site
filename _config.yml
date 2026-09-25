@@ -1,0 +1,5 @@
+title: Everybody Moves
+description: A puzzle game you play with one thumb.
+theme: jekyll-theme-minimal
+exclude:
+  - README.md
