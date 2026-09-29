@@ -19,6 +19,7 @@ Undo takes back your last swipe. Restart puts the board back to the start, and
 after a restart you'll see a Hint button if you want one.
 
 **Where is my progress saved?**
-Only on your phone. If you delete the app, your progress goes with it.
+Only on your phone. If you delete the app, your progress goes with it, unless
+your phone's backup brings it back when you reinstall.
 
 [Back to the home page](./)
