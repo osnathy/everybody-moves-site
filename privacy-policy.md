@@ -1,6 +1,6 @@
 # Privacy policy
 
-Last updated 29 September 2026.
+Last updated 1 October 2026.
 
 Everybody Moves is made by Osnat Haj Yahia, and I am responsible for this
 policy. You can reach me at osnathy83@gmail.com.
@@ -58,9 +58,13 @@ The ads are limited to ones Google rates as suitable for all ages.
 
 ## Sending me your play record
 
-The game's Settings has a Share capture button. If you press it, you choose
+If you're testing the game, I may ask you to send me that record. Testing
+builds have a Share capture button in Settings. If you press it, you choose
 where the record goes, for example an email to me. Nothing is sent unless you
 do this. The file has no name, account, phone id or advertising id in it.
+
+In the version from the App Store and Google Play the button is hidden, and
+the record stays on your phone.
 
 ## Game updates
 
