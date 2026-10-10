@@ -1,6 +1,6 @@
 # Privacy policy
 
-Last updated 5 October 2026.
+Last updated 10 October 2026.
 
 Everybody Moves is made by Osnat Haj Yahia, and I am responsible for this
 policy. You can reach me at osnathy83@gmail.com.
@@ -12,7 +12,7 @@ is described below.
 
 ## What stays on your phone
 
-The game keeps your progress on your phone. That is which boards you've
+The game keeps your progress on your phone. That means which boards you've
 finished, the fewest moves you've finished each one in and the swipes of that
 run, whether your first finish of each board was in the fewest moves, which
 boards you picked up a candy on, and a few things the game has
@@ -27,7 +27,7 @@ for a hint. None of this leaves your phone on its own.
 The game doesn't use your microphone, camera, contacts, photos or location
 services.
 
-Deleting the app deletes it. If your phone backs up its apps to iCloud or to
+If you delete the app, all of this goes with it. If your phone backs up its apps to iCloud or to
 Google, the backup can include it, and reinstalling from that backup brings it
 back.
 
@@ -39,7 +39,8 @@ where the record goes, for example an email to me. Nothing is sent unless you
 do this. The file has no name, account, phone id or advertising id in it.
 
 In the version from the App Store the button is hidden, and the record stays
-on your phone.
+on your phone. If you ask me for help, I may show you how to open it. It
+still sends nothing unless you press it.
 
 ## Game updates
 
