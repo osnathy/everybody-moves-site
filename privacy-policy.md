@@ -20,11 +20,6 @@ you once, so it doesn't show them again. Your stars aren't stored separately.
 The game works them out from that progress. It also keeps your settings for
 sound, vibration and motion.
 
-It also keeps a record of how each board went: when you started playing, how
-long each board took, your swipes, undos and restarts, whether you asked for a
-hint, and whether an ad was shown after it. None of this leaves your phone on
-its own.
-
 The game doesn't use your microphone, camera, contacts, photos or location
 services.
 
@@ -41,8 +36,10 @@ served by Google AdMob.
 
 To choose and count the ads, Google's ad software collects:
 
-- an identifier for your device. On iPhone that is the advertising identifier,
-  and only if you allow tracking. On Android it is the Android advertising ID.
+- identifiers for your device. On iPhone that is always an identifier Apple
+  gives each app maker for their own apps, and the advertising identifier only
+  if you allow tracking. On Android it is the Android advertising ID and the
+  app set ID.
 - your internet address, which gives your approximate location
 - which ads you see and tap, and when the app is opened
 - crash reports and performance data from the ad software itself
@@ -71,15 +68,16 @@ settings, under Privacy, Ads.
 
 The ads are limited to ones Google rates as suitable for all ages.
 
-## Sending me your play record
+## Testing builds
 
-If you're testing the game, I may ask you to send me that record. Testing
-builds have a Share capture button in Settings. If you press it, you choose
-where the record goes, for example an email to me. Nothing is sent unless you
-do this. The file has no name, account, phone id or advertising id in it.
+The version from the App Store or Google Play keeps no record of how you play
+beyond your progress.
 
-The version from the App Store or Google Play doesn't have this button, and the
-record stays on your phone.
+Builds I give testers also keep a record of how each board went: how long it
+took, your swipes, undos and restarts, whether you asked for a hint, and
+whether an ad followed. It stays on the phone. A tester can send it to me with
+the Share capture button in Settings, and chooses where it goes. The file has
+no name, account, phone id or advertising id in it.
 
 ## Reporting an ad
 
@@ -104,7 +102,39 @@ under 13, and I don't knowingly collect personal information from them. If you
 think a child under 13 has been using the game, email me and I'll tell you how
 to remove what the ads have collected.
 
-## Your choices and your data
+## Why the data is used
+
+Where the law asks for a reason, these are mine. Ads chosen using your data
+rely on your consent, which you can withdraw in Settings, Ad privacy. Showing
+ads that are not personalised, preventing ad fraud, checking for updates and
+answering your emails rely on my legitimate interest in keeping a free game
+working.
+
+## Where the data goes and how long it is kept
+
+Google and Expo process data in the United States and in other countries. They
+do it under their own terms, which protect it at least as well as this page
+and use the safeguards the law requires for transfers, such as standard
+contractual clauses. Google is certified under the EU-US Data Privacy
+Framework. I'm in Israel, which the EU and the UK recognise as giving adequate
+protection.
+
+What the game keeps on your phone stays until you delete the app. Google and
+Expo keep what they collect for as long as their own policies say. I keep
+nothing about you, except emails you send me, which I delete within 12 months
+of the last reply.
+
+## If you live in the United States
+
+In the last 12 months the game's ad software collected identifiers, internet
+activity such as which ads you saw, and approximate location, for the purposes
+above. Google's use of them for personalised ads may count as "sharing" under
+California law. You can opt out in Settings, Ad privacy, where your state's law
+gives you that choice, and on iPhone by not allowing tracking. I don't sell
+personal information for money, and I don't knowingly sell or share the
+information of anyone under 16.
+
+## Your choices and your rights
 
 Everything the game keeps is on your phone, and you can delete it by deleting
 the app. I hold no copy, so there is nothing of yours on my side to hand over
@@ -112,8 +142,13 @@ or delete.
 
 For the ad data Google holds, use the tracking and ad settings above, or
 Google's own controls at [myadcenter.google.com](https://myadcenter.google.com).
-Depending on where you live, you may have the right to ask for a copy of your
-data, or for it to be deleted. Email me and I'll help you do that.
+
+Depending on where you live, you have the right to see the data held about
+you, to have it corrected or deleted, to limit or object to its use, to take a
+copy, and to withdraw your consent at any time. Email me and I'll help you do
+that with Google. You can also complain to the data protection authority where
+you live. In the UK that is the ICO, and in Israel the Privacy Protection
+Authority.
 
 ## If this changes
 
