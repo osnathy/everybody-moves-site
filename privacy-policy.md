@@ -1,6 +1,6 @@
 # Privacy policy
 
-Last updated 15 October 2026.
+Last updated 17 October 2026.
 
 Everybody Moves is made by Osnat Haj Yahia, and I am responsible for this
 policy. You can reach me at osnathy83@gmail.com.
@@ -78,8 +78,13 @@ builds have a Share capture button in Settings. If you press it, you choose
 where the record goes, for example an email to me. Nothing is sent unless you
 do this. The file has no name, account, phone id or advertising id in it.
 
-In the version from the App Store or Google Play the button is hidden, and the
+The version from the App Store or Google Play doesn't have this button, and the
 record stays on your phone.
+
+## Reporting an ad
+
+Settings has a Report an ad row. It opens an email to me in your mail app, and
+nothing is sent unless you send it. The email has only what you write in it.
 
 ## Game updates
 
