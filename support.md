@@ -21,7 +21,7 @@ the game can tell you're stuck, for example after a restart, a Hint button
 appears. It won't tell you anything until you press it.
 
 **Where is my progress saved?**
-Only on your phone. If you delete the app, your progress goes with it, unless
-your phone's backup brings it back when you reinstall.
+Only on your phone. If you delete the app, your progress goes with it. On
+iPhone, reinstalling from an iCloud backup brings it back.
 
 [Back to the home page](./)

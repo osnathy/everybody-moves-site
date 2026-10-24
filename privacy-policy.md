@@ -1,6 +1,6 @@
 # Privacy policy
 
-Last updated 17 October 2026.
+Last updated 24 October 2026.
 
 Everybody Moves is made by Osnat Haj Yahia, and I am responsible for this
 policy. You can reach me at osnathy83@gmail.com.
@@ -23,9 +23,8 @@ sound, vibration and motion.
 The game doesn't use your microphone, camera, contacts, photos or location
 services.
 
-Deleting the app deletes it. If your phone backs up its apps to iCloud or to
-Google, the backup can include it, and reinstalling from that backup brings it
-back.
+Deleting the app deletes it. On iPhone, an iCloud backup can include it, and
+reinstalling from that backup brings it back.
 
 ## Ads
 
@@ -52,10 +51,10 @@ It is sent to Google encrypted. Google keeps it under its own policy, which
 explains how Google uses data from apps that show its ads:
 [policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites).
 
-On iPhone the game asks whether it may track you before any ad is shown. If you
-say no, you still see ads, but they aren't chosen using your activity in other
-apps and websites. You can change the answer at any time in Settings, Privacy &
-Security, Tracking.
+On iPhone the game asks whether it may track you once, when you finish board 3.
+Until you say yes, the ads you see aren't chosen using your activity in other
+apps and websites, and if you say no they never are. You can change the answer
+at any time in Settings, Privacy & Security, Tracking.
 
 If you live in the European Economic Area, the UK or Switzerland, Google's
 consent form asks for your choices before any ad is shown. If you live in a US
@@ -81,8 +80,9 @@ no name, account, phone id or advertising id in it.
 
 ## Reporting an ad
 
-Settings has a Report an ad row. It opens an email to me in your mail app, and
-nothing is sent unless you send it. The email has only what you write in it.
+Settings has a Report an ad row. It opens an email to me in your mail app, with
+the subject filled in and nothing else about you. Nothing is sent unless you
+send it.
 
 ## Game updates
 
@@ -105,7 +105,8 @@ to remove what the ads have collected.
 ## Why the data is used
 
 Where the law asks for a reason, these are mine. Ads chosen using your data
-rely on your consent, which you can withdraw in Settings, Ad privacy. Showing
+rely on your consent, which you can withdraw in Settings, Ad privacy. You don't
+have to give it, and the game plays the same if you don't. Showing
 ads that are not personalised, preventing ad fraud, checking for updates and
 answering your emails rely on my legitimate interest in keeping a free game
 working.
