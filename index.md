@@ -10,7 +10,7 @@ Get a circle to its home and it stays there for good. It stops moving with the
 others and gets in their way instead. Sometimes you want it there, so the next
 circle has something to stop against.
 
-It's in beta on TestFlight right now.
+[Get it on the App Store](https://apps.apple.com/app/everybody-moves/id6811862080). It's free, with ads.
 
 - [Privacy policy](privacy-policy)
 - [Support](support)
